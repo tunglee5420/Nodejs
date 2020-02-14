@@ -1,0 +1,8 @@
+{
+  "host":"134.175.59.87",
+  "port":3306,
+  "user":"root",
+  "password":"5420",
+  "database":"dc",
+  "connectionLimit":20
+}
